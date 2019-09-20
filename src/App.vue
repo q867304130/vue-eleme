@@ -2,7 +2,7 @@
   <div>
     <!-- 头部 -->
     <v-header :seller="seller"></v-header>
-    <!-- 主体切换 -->
+    <!-- 主体页面切换 -->
     <div class="tab border-1px">
       <div class="tab-item">
         <router-link v-bind:to="'/goods'">

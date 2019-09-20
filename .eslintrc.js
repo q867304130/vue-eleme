@@ -4,7 +4,8 @@ module.exports = {
   parserOptions: {
     sourceType: 'module'
   },
-  // https://github.com/feross/standard/blob/master/RULES.md#javascript-standard-style
+  // https://github.com/feross/standard/blob/master/RULES.md#javascript-standard-style 
+  //to learn more
   extends: 'standard',
   // required to lint *.vue files
   plugins: [
